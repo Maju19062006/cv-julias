@@ -1,0 +1,14 @@
+{
+    "name": "cv maju",
+    "short_name": "cv maju",
+    "icons": [
+        {
+            "src": "/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#efeff3",
+    "background_color": "#efeff3",
+    "display": "standalone"
+}
